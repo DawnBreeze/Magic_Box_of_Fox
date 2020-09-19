@@ -1,2 +1,2 @@
-# myLib
-收集各种优秀的代码
+# Magic_Box_of_Fox
+这里是小狐狸的宝盒~
